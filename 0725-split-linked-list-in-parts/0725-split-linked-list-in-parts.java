@@ -29,7 +29,6 @@ class Solution {
         ListNode[] splitted = new ListNode[k];
         int quotient = size / k;
         int remainder = size % k;
-        ListNode p = head;
 
         for(int i = 0; i < k; i++){
             ListNode q = head;
