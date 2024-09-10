@@ -23,13 +23,17 @@ class Solution {
         }
         return head;
     }
-    public int GCD(int n, int m){
-        if(n == 1 || m == 1)
-            return 1;
-        int a = Math.min(n, m);
-        for(; a > 0; a--)
-            if(m % a == 0 && n % a == 0)
-                return a;
-        return 1;
+    public int GCD(int x, int y){
+        int r=0, a, b;  
+        a = (x > y) ? x : y; // a is greater number  
+        b = (x < y) ? x : y; // b is smaller number  
+        r = b;  
+        while(a % b != 0)  
+        {  
+        r = a % b;  
+        a = b;  
+        b = r;  
+        }  
+        return r;  
     }
 }
