@@ -68,4 +68,12 @@
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0392-is-subsequence) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
