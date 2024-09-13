@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0001-two-sum) |
+| [0074-search-a-2d-matrix](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0238-product-of-array-except-self](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0238-product-of-array-except-self) |
 | [1435-xor-queries-of-a-subarray](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/1435-xor-queries-of-a-subarray) |
@@ -27,6 +28,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0074-search-a-2d-matrix) |
 | [2411-spiral-matrix-iv](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2411-spiral-matrix-iv) |
 ## Simulation
 |  |
@@ -96,4 +98,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0014-longest-common-prefix) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
