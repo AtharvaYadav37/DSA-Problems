@@ -44,6 +44,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0008-string-to-integer-atoi) |
+| [0014-longest-common-prefix](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0014-longest-common-prefix) |
 | [0043-multiply-strings](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0043-multiply-strings) |
 | [0392-is-subsequence](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0392-is-subsequence) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -91,4 +92,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
