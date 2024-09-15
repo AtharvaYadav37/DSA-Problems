@@ -55,6 +55,7 @@
 | [0008-string-to-integer-atoi](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0014-longest-common-prefix) |
 | [0043-multiply-strings](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0043-multiply-strings) |
+| [0125-valid-palindrome](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0392-is-subsequence) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -83,6 +84,7 @@
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0125-valid-palindrome](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
