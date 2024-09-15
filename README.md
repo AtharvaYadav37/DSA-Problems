@@ -21,6 +21,7 @@
 | [0001-two-sum](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0073-set-matrix-zeroes) |
+| [0383-ransom-note](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0383-ransom-note) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Linked List
@@ -56,6 +57,7 @@
 | [0014-longest-common-prefix](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0014-longest-common-prefix) |
 | [0043-multiply-strings](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0125-valid-palindrome) |
+| [0383-ransom-note](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0392-is-subsequence) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -78,6 +80,7 @@
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0383-ransom-note) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Two Pointers
 |  |
