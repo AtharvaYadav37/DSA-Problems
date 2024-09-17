@@ -16,7 +16,7 @@ class Solution {
             c2.put(w, c2.getOrDefault(w, 0) + 1);
         }
         
-        List<String> u = new ArrayList<>();
+        ArrayList<String> u = new ArrayList<>();
         
         for (String w : c1.keySet()) {
             if (c1.get(w) == 1 && !c2.containsKey(w)) {
