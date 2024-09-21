@@ -131,6 +131,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0014-longest-common-prefix) |
+| [0386-lexicographical-numbers](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0386-lexicographical-numbers) |
 ## Binary Search
 |  |
 | ------- |
@@ -169,4 +170,8 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0214-shortest-palindrome) |
+## Depth-First Search
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
