@@ -27,6 +27,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0128-longest-consecutive-sequence) |
+| [0242-valid-anagram](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0383-ransom-note) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0645-set-mismatch) |
@@ -71,6 +72,7 @@
 | [0179-largest-number](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0241-different-ways-to-add-parentheses) |
+| [0242-valid-anagram](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0392-is-subsequence) |
 | [0539-minimum-time-difference](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0539-minimum-time-difference) |
@@ -157,6 +159,7 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0242-valid-anagram) |
 | [0539-minimum-time-difference](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0539-minimum-time-difference) |
 | [0645-set-mismatch](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0645-set-mismatch) |
 ## Greedy
