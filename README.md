@@ -68,6 +68,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0014-longest-common-prefix) |
 | [0043-multiply-strings](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0043-multiply-strings) |
@@ -111,6 +112,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0125-valid-palindrome) |
@@ -119,6 +121,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0241-different-ways-to-add-parentheses](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0392-is-subsequence](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0392-is-subsequence) |
 ## Stack
