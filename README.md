@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0015-3sum) |
 | [0073-set-matrix-zeroes](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -114,6 +115,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0015-3sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0125-valid-palindrome) |
@@ -166,6 +168,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0015-3sum) |
 | [0179-largest-number](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0242-valid-anagram) |
 | [0539-minimum-time-difference](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0539-minimum-time-difference) |
