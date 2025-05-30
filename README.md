@@ -10,6 +10,7 @@
 | [0073-set-matrix-zeroes](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0120-triangle](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0179-largest-number) |
@@ -125,6 +126,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0120-triangle](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0120-triangle) |
 | [0241-different-ways-to-add-parentheses](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0392-is-subsequence](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0392-is-subsequence) |
 ## Stack
