@@ -7,6 +7,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0015-3sum) |
+| [0046-permutations](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0046-permutations) |
 | [0073-set-matrix-zeroes](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -237,4 +238,8 @@
 |  |
 | ------- |
 | [3201-distribute-candies-among-children-ii](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/3201-distribute-candies-among-children-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
