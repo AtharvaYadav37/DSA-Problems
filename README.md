@@ -33,6 +33,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0128-longest-consecutive-sequence) |
+| [0187-repeated-dna-sequences](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -80,6 +81,7 @@
 | [0043-multiply-strings](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0179-largest-number) |
+| [0187-repeated-dna-sequences](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0242-valid-anagram) |
@@ -99,6 +101,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0187-repeated-dna-sequences) |
 | [0645-set-mismatch](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0645-set-mismatch) |
 | [1435-xor-queries-of-a-subarray](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -154,6 +157,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0187-repeated-dna-sequences](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0187-repeated-dna-sequences) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Trie
 |  |
@@ -194,6 +198,7 @@
 ## Rolling Hash
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0214-shortest-palindrome) |
 ## String Matching
 |  |
@@ -202,6 +207,7 @@
 ## Hash Function
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0214-shortest-palindrome) |
 ## Depth-First Search
 |  |
