@@ -86,6 +86,7 @@
 | [0392-is-subsequence](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0392-is-subsequence) |
 | [0539-minimum-time-difference](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0539-minimum-time-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/1197-parsing-a-boolean-expression) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -169,6 +170,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0128-longest-consecutive-sequence) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/1058-lexicographically-smallest-equivalent-string) |
 ## Sorting
 |  |
 | ------- |
