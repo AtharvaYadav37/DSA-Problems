@@ -46,6 +46,7 @@
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Linked List
 |  |
 | ------- |
@@ -100,6 +101,7 @@
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Number Theory
 |  |
 | ------- |
@@ -150,6 +152,7 @@
 | [0739-daily-temperatures](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0739-daily-temperatures) |
 | [1197-parsing-a-boolean-expression](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/1197-parsing-a-boolean-expression) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Design
 |  |
 | ------- |
@@ -201,6 +204,7 @@
 | ------- |
 | [0179-largest-number](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0179-largest-number) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Memoization
 |  |
 | ------- |
@@ -231,6 +235,7 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0948-sort-an-array) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Merge Sort
 |  |
 | ------- |
