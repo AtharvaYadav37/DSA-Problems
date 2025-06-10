@@ -1,3 +1,6 @@
+//runtime for the commented code is 4ms
+
+
 // class Solution {
 //     public double myPow(double x, int n) {
 //         if((x == -1 && n % 2 == 0) || (x == 1) || (n == 0))
@@ -21,7 +24,7 @@
 
 
 
-//efficient approach
+//efficient approach; runtime is 0ms
 
 class Solution {
     public double myPow(double x, int n) {
