@@ -76,6 +76,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0050-powx-n) |
 | [0241-different-ways-to-add-parentheses](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0241-different-ways-to-add-parentheses) |
