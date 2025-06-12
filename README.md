@@ -12,6 +12,7 @@
 | [0074-search-a-2d-matrix](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0120-triangle](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0135-candy) |
@@ -247,6 +248,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0948-sort-an-array](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -293,15 +295,21 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0101-symmetric-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0101-symmetric-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0101-symmetric-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
