@@ -14,6 +14,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0120-triangle](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -153,6 +154,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0120-triangle](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0241-different-ways-to-add-parentheses](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0392-is-subsequence](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0392-is-subsequence) |
 ## Stack
