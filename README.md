@@ -21,6 +21,7 @@
 | [0179-largest-number](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0179-largest-number) |
 | [0219-contains-duplicate-ii](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0539-minimum-time-difference) |
 | [0645-set-mismatch](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0645-set-mismatch) |
@@ -152,6 +153,7 @@
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
