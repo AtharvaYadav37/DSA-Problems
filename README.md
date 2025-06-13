@@ -31,6 +31,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2411-spiral-matrix-iv](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2411-spiral-matrix-iv) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
@@ -203,6 +204,7 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Brainteaser
 |  |
 | ------- |
@@ -227,6 +229,7 @@
 | [0135-candy](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0179-largest-number) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Memoization
 |  |
