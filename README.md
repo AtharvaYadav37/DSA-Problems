@@ -18,6 +18,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0215-kth-largest-element-in-an-array) |
@@ -127,6 +128,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0187-repeated-dna-sequences) |
 | [0645-set-mismatch](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0645-set-mismatch) |
 | [1435-xor-queries-of-a-subarray](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/1435-xor-queries-of-a-subarray) |
