@@ -130,6 +130,7 @@
 | ------- |
 | [0136-single-number](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0187-repeated-dna-sequences) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0645-set-mismatch](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0645-set-mismatch) |
 | [1435-xor-queries-of-a-subarray](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
