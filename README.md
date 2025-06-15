@@ -12,6 +12,7 @@
 | [0074-search-a-2d-matrix](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0120-triangle](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -154,6 +155,7 @@
 | [0015-3sum](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0015-3sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0088-merge-sorted-array](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0283-move-zeroes) |
@@ -220,6 +222,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0242-valid-anagram) |
 | [0539-minimum-time-difference](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0539-minimum-time-difference) |
