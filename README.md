@@ -37,6 +37,7 @@
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
 |  |
@@ -234,6 +235,7 @@
 | [0539-minimum-time-difference](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0539-minimum-time-difference) |
 | [0645-set-mismatch](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0645-set-mismatch) |
 | [0948-sort-an-array](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0948-sort-an-array) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Greedy
 |  |
 | ------- |
@@ -243,6 +245,7 @@
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Memoization
 |  |
