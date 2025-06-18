@@ -87,6 +87,7 @@
 | [0009-palindrome-number](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0060-permutation-sequence) |
 | [0241-different-ways-to-add-parentheses](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0539-minimum-time-difference) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -144,6 +145,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0060-permutation-sequence) |
 | [0241-different-ways-to-add-parentheses](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/1197-parsing-a-boolean-expression) |
 ## Counting
