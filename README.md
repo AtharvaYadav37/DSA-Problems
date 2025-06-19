@@ -33,6 +33,7 @@
 | [1435-xor-queries-of-a-subarray](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2411-spiral-matrix-iv](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2411-spiral-matrix-iv) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -237,6 +238,7 @@
 | [0539-minimum-time-difference](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0539-minimum-time-difference) |
 | [0645-set-mismatch](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0645-set-mismatch) |
 | [0948-sort-an-array](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0948-sort-an-array) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Greedy
 |  |
@@ -244,6 +246,7 @@
 | [0135-candy](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0179-largest-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
