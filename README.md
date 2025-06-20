@@ -62,6 +62,7 @@
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Linked List
 |  |
 | ------- |
@@ -95,6 +96,7 @@
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3201-distribute-candies-among-children-ii](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/3201-distribute-candies-among-children-ii) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## String
 |  |
 | ------- |
@@ -124,6 +126,7 @@
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Number Theory
 |  |
@@ -157,6 +160,7 @@
 | [0920-uncommon-words-from-two-sentences](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Two Pointers
 |  |
 | ------- |
