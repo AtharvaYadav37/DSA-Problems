@@ -82,6 +82,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0043-multiply-strings) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2411-spiral-matrix-iv](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2411-spiral-matrix-iv) |
 ## Math
 |  |
@@ -124,6 +125,7 @@
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
