@@ -27,6 +27,7 @@
 | [0283-move-zeroes](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0539-minimum-time-difference) |
+| [0594-longest-harmonious-subsequence](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0645-set-mismatch) |
 | [0739-daily-temperatures](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0739-daily-temperatures) |
 | [0948-sort-an-array](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0948-sort-an-array) |
@@ -55,6 +56,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0594-longest-harmonious-subsequence](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0645-set-mismatch) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
@@ -163,6 +165,7 @@
 | ------- |
 | [0383-ransom-note](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -218,6 +221,7 @@
 | [0187-repeated-dna-sequences](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Trie
@@ -249,6 +253,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0242-valid-anagram) |
 | [0539-minimum-time-difference](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0539-minimum-time-difference) |
+| [0594-longest-harmonious-subsequence](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0645-set-mismatch) |
 | [0948-sort-an-array](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0948-sort-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
