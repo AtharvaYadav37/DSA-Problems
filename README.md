@@ -139,6 +139,7 @@
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3617-find-the-original-typed-string-i](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/3617-find-the-original-typed-string-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
