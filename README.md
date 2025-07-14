@@ -84,6 +84,7 @@
 | [0002-add-two-numbers](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0002-add-two-numbers) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0725-split-linked-list-in-parts](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0725-split-linked-list-in-parts) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2411-spiral-matrix-iv](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Matrix
@@ -110,6 +111,7 @@
 | [0060-permutation-sequence](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0060-permutation-sequence) |
 | [0241-different-ways-to-add-parentheses](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0539-minimum-time-difference) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
