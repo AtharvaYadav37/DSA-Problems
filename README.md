@@ -36,6 +36,7 @@
 | [1435-xor-queries-of-a-subarray](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1813-maximum-erasure-value](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/1813-maximum-erasure-value) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -71,6 +72,7 @@
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1813-maximum-erasure-value](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/1813-maximum-erasure-value) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2479-meeting-rooms-iii](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2479-meeting-rooms-iii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -248,6 +250,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
+| [1813-maximum-erasure-value](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/1813-maximum-erasure-value) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Trie
