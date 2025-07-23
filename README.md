@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0015-3sum) |
 | [0046-permutations](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -56,6 +57,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0187-repeated-dna-sequences](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0187-repeated-dna-sequences) |
@@ -129,6 +131,7 @@
 | [0008-string-to-integer-atoi](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0014-longest-common-prefix) |
 | [0043-multiply-strings](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0187-repeated-dna-sequences) |
@@ -277,6 +280,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0215-kth-largest-element-in-an-array) |
