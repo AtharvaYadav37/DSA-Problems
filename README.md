@@ -22,6 +22,7 @@
 | [0136-single-number](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0238-product-of-array-except-self) |
@@ -118,6 +119,7 @@
 | [0043-multiply-strings](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0060-permutation-sequence) |
+| [0189-rotate-array](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0189-rotate-array) |
 | [0241-different-ways-to-add-parentheses](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0539-minimum-time-difference) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -213,6 +215,7 @@
 | [0088-merge-sorted-array](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0455-assign-cookies) |
