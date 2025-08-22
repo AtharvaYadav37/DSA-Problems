@@ -54,6 +54,7 @@
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -106,6 +107,7 @@
 | [0073-set-matrix-zeroes](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0074-search-a-2d-matrix) |
 | [2411-spiral-matrix-iv](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2411-spiral-matrix-iv) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Simulation
 |  |
 | ------- |
