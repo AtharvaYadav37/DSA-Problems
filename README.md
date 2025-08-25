@@ -47,6 +47,7 @@
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2411-spiral-matrix-iv](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2411-spiral-matrix-iv) |
+| [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2479-meeting-rooms-iii](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -168,6 +169,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3396-valid-word](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/3396-valid-word) |
@@ -262,6 +264,7 @@
 | [1435-xor-queries-of-a-subarray](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Sliding Window
 |  |
