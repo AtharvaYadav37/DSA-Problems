@@ -41,6 +41,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1813-maximum-erasure-value](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/1813-maximum-erasure-value) |
+| [1917-maximum-average-pass-ratio](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/1917-maximum-average-pass-ratio) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -332,6 +333,7 @@
 | [0179-largest-number](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0455-assign-cookies) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1917-maximum-average-pass-ratio](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/1917-maximum-average-pass-ratio) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -383,6 +385,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0239-sliding-window-maximum) |
 | [0948-sort-an-array](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0948-sort-an-array) |
+| [1917-maximum-average-pass-ratio](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/1917-maximum-average-pass-ratio) |
 | [2479-meeting-rooms-iii](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2479-meeting-rooms-iii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Merge Sort
