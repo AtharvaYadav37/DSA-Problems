@@ -10,8 +10,8 @@ class Solution {
         int count = 0;
         for(int i = 0; i < points.length - 1; i++){
             int maxY = Integer.MIN_VALUE;
+            int y1 = points[i][1];
             for (int j = i + 1; j < points.length; j++) {
-                int y1 = points[i][1];
                 int y2 = points[j][1];
                 
                 if (y2 <= y1 && y2 > maxY) {
