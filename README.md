@@ -34,6 +34,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0645-set-mismatch) |
 | [0739-daily-temperatures](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0739-daily-temperatures) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0940-fruit-into-baskets](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0948-sort-an-array) |
 | [0978-valid-mountain-array](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0978-valid-mountain-array) |
@@ -296,6 +297,7 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Brainteaser
