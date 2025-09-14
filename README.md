@@ -41,6 +41,7 @@
 | [0940-fruit-into-baskets](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0948-sort-an-array) |
 | [0978-valid-mountain-array](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0978-valid-mountain-array) |
+| [1006-vowel-spellchecker](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/1006-vowel-spellchecker) |
 | [1435-xor-queries-of-a-subarray](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -86,6 +87,7 @@
 | [0900-reordered-power-of-2](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0900-reordered-power-of-2) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0940-fruit-into-baskets](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0940-fruit-into-baskets) |
+| [1006-vowel-spellchecker](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/1006-vowel-spellchecker) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -171,6 +173,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0539-minimum-time-difference](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0539-minimum-time-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1006-vowel-spellchecker](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/1302-delete-characters-to-make-fancy-string) |
