@@ -52,6 +52,7 @@
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2411-spiral-matrix-iv](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2411-spiral-matrix-iv) |
@@ -145,6 +146,7 @@
 | [0900-reordered-power-of-2](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3201-distribute-candies-among-children-ii](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/3201-distribute-candies-among-children-ii) |
@@ -200,6 +202,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Bit Manipulation
 |  |
@@ -270,6 +273,7 @@
 | [0155-min-stack](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0739-daily-temperatures) |
 | [1197-parsing-a-boolean-expression](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/1197-parsing-a-boolean-expression) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Design
