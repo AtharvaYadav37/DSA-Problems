@@ -12,16 +12,16 @@ class FoodRatings {
 
     HashMap<String, Integer> f2r = new HashMap<>();                     //food to rating
     HashMap<String, String> f2c = new HashMap<>();
-    HashMap<String, PriorityQueue<Food>> maxPQ = new HashMap<>();     //cuisine as key, PQ has foods
+    HashMap<String, PriorityQueue<Food>> maxPQ = new HashMap<>();       //cuisine as key, PQ has foods
 
     Comparator<Food> customComp = (f1, f2) -> {
     int r1 = f1.rating;
     int r2 = f2.rating;
 
     if (r1 != r2) {
-        return r2 - r1; // higher rating first
+        return r2 - r1;                         // higher rating first
     }
-    return f1.food.compareTo(f2.food); // lexicographically smaller first
+    return f1.food.compareTo(f2.food);          // lexicographically smaller first
     };
 
     public FoodRatings(String[] foods, String[] cuisines, int[] ratings) {
