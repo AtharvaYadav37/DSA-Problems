@@ -70,6 +70,7 @@
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3797-design-spreadsheet](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/3797-design-spreadsheet) |
 ## Hash Table
 |  |
 | ------- |
@@ -107,6 +108,7 @@
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3797-design-spreadsheet](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Linked List
 |  |
@@ -125,6 +127,7 @@
 | [0074-search-a-2d-matrix](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0074-search-a-2d-matrix) |
 | [2411-spiral-matrix-iv](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2411-spiral-matrix-iv) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3797-design-spreadsheet](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/3797-design-spreadsheet) |
 ## Simulation
 |  |
 | ------- |
@@ -201,6 +204,7 @@
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3797-design-spreadsheet](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Number Theory
 |  |
@@ -285,6 +289,7 @@
 | [0155-min-stack](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0155-min-stack) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2429-design-a-food-rating-system](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2429-design-a-food-rating-system) |
+| [3797-design-spreadsheet](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/3797-design-spreadsheet) |
 ## Prefix Sum
 |  |
 | ------- |
