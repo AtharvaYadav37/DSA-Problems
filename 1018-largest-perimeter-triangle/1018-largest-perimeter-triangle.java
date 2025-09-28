@@ -5,10 +5,11 @@ class Solution {
         int len = nums.length;
         int maxArea = 0;
         for(int i = len - 1; i >= 2; i--){
-            if(nums[i - 2] + nums[i - 1] > nums[i])
-                maxArea = Math.max(maxArea, nums[i - 2] + nums[i - 1] + nums[i]);
+            int currSum = nums[i-2] + nums[i - 1] + nums[i];
+            if(nums[i - 2] + nums[i - 1] > nums[i] && currSum > maxArea)
+                return currSum;
         }
 
-        return maxArea;
+        return 0;
     }
 }
