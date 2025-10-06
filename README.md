@@ -140,6 +140,7 @@
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2411-spiral-matrix-iv](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2411-spiral-matrix-iv) |
+| [2470-removing-stars-from-a-string](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2470-removing-stars-from-a-string) |
 | [2479-meeting-rooms-iii](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2479-meeting-rooms-iii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Math
@@ -200,6 +201,7 @@
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2429-design-a-food-rating-system](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2429-design-a-food-rating-system) |
+| [2470-removing-stars-from-a-string](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2470-removing-stars-from-a-string) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -289,6 +291,7 @@
 | [0739-daily-temperatures](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0739-daily-temperatures) |
 | [1197-parsing-a-boolean-expression](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/1197-parsing-a-boolean-expression) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2470-removing-stars-from-a-string](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2470-removing-stars-from-a-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Design
