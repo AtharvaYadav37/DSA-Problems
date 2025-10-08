@@ -58,6 +58,7 @@
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2411-spiral-matrix-iv](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2411-spiral-matrix-iv) |
 | [2429-design-a-food-rating-system](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2429-design-a-food-rating-system) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
@@ -272,6 +273,7 @@
 | [0392-is-subsequence](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0455-assign-cookies) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Dynamic Programming
 |  |
@@ -344,6 +346,7 @@
 | [0745-find-smallest-letter-greater-than-target](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0907-koko-eating-bananas](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0907-koko-eating-bananas) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Brainteaser
 |  |
@@ -372,6 +375,7 @@
 | [0948-sort-an-array](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0948-sort-an-array) |
 | [1018-largest-perimeter-triangle](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/1018-largest-perimeter-triangle) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2479-meeting-rooms-iii](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2689-rearranging-fruits) |
