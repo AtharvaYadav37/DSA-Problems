@@ -49,6 +49,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1435-xor-queries-of-a-subarray](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1813-maximum-erasure-value](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/1813-maximum-erasure-value) |
 | [1917-maximum-average-pass-ratio](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/1917-maximum-average-pass-ratio) |
@@ -345,6 +346,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0907-koko-eating-bananas](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/0907-koko-eating-bananas) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
