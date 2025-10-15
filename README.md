@@ -74,6 +74,7 @@
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -351,6 +352,7 @@
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/AtharvaYadav37/DSA-Problems/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Brainteaser
 |  |
 | ------- |
